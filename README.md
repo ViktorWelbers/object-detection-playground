@@ -1,6 +1,6 @@
 # object-detection-playground
 Anything related to object detection via deep learning
 
-Currenlty:
+## Current status:
 
 Uses a pretrained YoloV5 and OpenCV to detect objects in videos
