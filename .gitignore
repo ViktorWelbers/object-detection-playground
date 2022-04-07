@@ -4,4 +4,5 @@ venv/
 .resources/
 *.pt
 idea/
-*.mp4
+vielplatz.mp4
+video.mp4
