@@ -41,4 +41,4 @@ def get_annotations(video_path: str = 'resources/video.mp4') -> list:
 
 if __name__ == '__main__':
     yolo_v5_model = load_yolov5_model()
-    annotations_and_timestamps = get_annotations(video_path='resources/video.mp4')
+    annotations_and_timestamps = get_annotations(video_path='resources/aquarium_video.mp4')
